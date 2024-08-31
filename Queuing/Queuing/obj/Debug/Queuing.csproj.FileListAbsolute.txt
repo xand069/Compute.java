@@ -1,0 +1,11 @@
+D:\C#\Queuing\Queuing\bin\Debug\Queuing.exe.config
+D:\C#\Queuing\Queuing\bin\Debug\Queuing.exe
+D:\C#\Queuing\Queuing\bin\Debug\Queuing.pdb
+D:\C#\Queuing\Queuing\obj\Debug\Queuing.csproj.AssemblyReference.cache
+D:\C#\Queuing\Queuing\obj\Debug\Queuing.CashierWindowQueueForm.resources
+D:\C#\Queuing\Queuing\obj\Debug\Queuing.Form1.resources
+D:\C#\Queuing\Queuing\obj\Debug\Queuing.Properties.Resources.resources
+D:\C#\Queuing\Queuing\obj\Debug\Queuing.csproj.GenerateResource.cache
+D:\C#\Queuing\Queuing\obj\Debug\Queuing.csproj.CoreCompileInputs.cache
+D:\C#\Queuing\Queuing\obj\Debug\Queuing.exe
+D:\C#\Queuing\Queuing\obj\Debug\Queuing.pdb
